@@ -1,1 +1,3 @@
 # MyFirstGitRepository
+
+Создаем конфликт
