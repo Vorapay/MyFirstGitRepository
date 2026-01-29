@@ -1,1 +1,3 @@
 # MyFirstGitRepository
+
+Изменения для конфликта
